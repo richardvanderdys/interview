@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container h4 {
+  color: #777;
+  margin-bottom: 5px;
+}
+
+.container main {
+  max-width: 60vw;
+}
+
+.actions {
+  margin-top: 40px;
+}

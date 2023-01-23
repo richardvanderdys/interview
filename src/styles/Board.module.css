@@ -1,0 +1,24 @@
+.columns {
+  width: 65vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.list {
+  background-color: #eee;
+  padding: 8px;
+  width: 20vw;
+}
+
+.list h3 {
+  text-align: center; 
+}
+
+.board button {
+  border: none;
+  margin-top: 10px;
+  padding: 5px 10px;
+  font-size: 16px;
+  background-color: #666;
+  color: white;
+}
